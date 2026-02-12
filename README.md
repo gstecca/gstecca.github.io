@@ -38,7 +38,7 @@ Open your browser to `http://localhost:1313`.
 
 ## Deployment to GitHub Pages
 
-To publish this site to **https://gstecca.github.io/cv**:
+To publish this site to **https://gstecca.github.io**:
 
 1.  **Create a Repository**: Create a new public repository named `cv` on your GitHub account (`gstecca`).
 2.  **Push Code**:
@@ -47,7 +47,7 @@ To publish this site to **https://gstecca.github.io/cv**:
     git add .
     git commit -m "Initial commit"
     git branch -M main
-    git remote add origin https://github.com/gstecca/cv.git
+    git remote add origin https://github.com/gstecca.github.io.git
     git push -u origin main
     ```
 
