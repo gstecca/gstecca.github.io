@@ -10,7 +10,7 @@ Giuseppe Stecca si è laureato in Ingegneria Gestionale e ha ottenuto il Dottora
 I suoi principali interessi di ricerca riguardano modellazione matematica, simulazione e algoritmi di ottimizzazione di sistemi di trasporto, logistica, servizi e sistemi di produzione. Le principali applicazioni studiate riguardano green supply chain management e digital twin. È coautore di più di 50 pubblicazioni ed è iscritto all'ordine degli Ingegneri della Provincia di Roma.
 
 ## Esperienze Professionali
-- **Primo Ricercatore** (da Gennaio 2023) / **Ricercatore**  
+- **Primo Ricercatore**  
   Consiglio Nazionale delle Ricerche, Istituto di Analisi dei Sistemi ed Informatica "Antonio Ruberti" (CNR-IASI)  
   *09/2011 -- in corso*  
   Modellazione e ottimizzazione di processi in logistica, manufacturing, trasporto, economia circolare, sostenibilità.

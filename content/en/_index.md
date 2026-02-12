@@ -10,7 +10,7 @@ He is a Senior Researcher at the National Research Council, Institute for System
 His main research interests include mathematical modeling, simulation, and optimization algorithms for transport, logistics, services, and production systems. Key applications include green supply chain management and digital twins. He is a co-author of more than 50 publications and is a member of the Order of Engineers of the Province of Rome.
 
 ## Professional Experience
-- **Senior Researcher** (since Jan 2023) / **Researcher**  
+- **Senior Researcher**  
   National Research Council, Institute for Systems Analysis and Informatics "Antonio Ruberti" (CNR-IASI)  
   *09/2011 -- Present*  
   Modeling and optimization of processes in logistics, manufacturing, transport, circular economy, and sustainability.
