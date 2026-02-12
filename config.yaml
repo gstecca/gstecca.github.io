@@ -1,0 +1,54 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Giuseppe Stecca - CV"
+theme: "paper"
+
+params:
+  # Color style: linen, wheat, gray, light
+  color: "light"
+  
+  # Profile
+  avatar: "/files/cv2025.jpg"
+  name: "Giuseppe Stecca"
+  bio: "Senior Researcher @ CNR-IASI"
+
+  # Social icons
+  # google scholar link handled via custom menu or content
+  github: "gstecca"
+  # linkedin: "yourlinkedin" 
+  # twitter: "yourtwitter"
+  
+  # Footer
+  copyright: "© 2025 Giuseppe Stecca"
+
+languages:
+  en:
+    languageCode: "en-us"
+    contentDir: "content/en"
+    title: "Giuseppe Stecca - CV"
+    menu:
+      main:
+        - name: "Google Scholar"
+          url: "https://scholar.google.it/citations?user=QDZ4kJoAAAAJ"
+          weight: 1
+        - name: "IASI-CNR"
+          url: "https://www.iasi.cnr.it"
+          weight: 2
+        - name: "Email"
+          url: "mailto:giuseppe.stecca@iasi.cnr.it"
+          weight: 3
+  it:
+    languageCode: "it-it"
+    contentDir: "content/it"
+    title: "Giuseppe Stecca - CV"
+    menu:
+      main:
+        - name: "Google Scholar"
+          url: "https://scholar.google.it/citations?user=QDZ4kJoAAAAJ"
+          weight: 1
+        - name: "IASI-CNR"
+          url: "https://www.iasi.cnr.it"
+          weight: 2
+        - name: "Email"
+          url: "mailto:giuseppe.stecca@iasi.cnr.it"
+          weight: 3

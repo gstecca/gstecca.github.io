@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giuseppe Stecca on Giuseppe Stecca - Curriculum Vitae</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content in Giuseppe Stecca on Giuseppe Stecca - Curriculum Vitae</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>//localhost:1313/en/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/education/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;PhD in Management Engineering&lt;/strong&gt;&lt;br&gt;&#xA;University of Rome &amp;ldquo;Tor Vergata&amp;rdquo;&lt;br&gt;&#xA;&lt;em&gt;2002 &amp;ndash; 2004&lt;/em&gt;&lt;br&gt;&#xA;ISCED 6. Obtained on 14/12/2004, XVIII cycle.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Level II Master&amp;rsquo;s degree in Business Organization and Management&lt;/strong&gt;&lt;br&gt;&#xA;University of Rome &amp;ldquo;Tor Vergata&amp;rdquo;&lt;br&gt;&#xA;&lt;em&gt;2001 &amp;ndash; 2002&lt;/em&gt;&lt;br&gt;&#xA;Obtained on 13/12/2002, grade A.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Master&amp;rsquo;s Degree (Vecchio Ordinamento) in Management Engineering (MD 509/99)&lt;/strong&gt;&lt;br&gt;&#xA;University of Rome &amp;ldquo;Tor Vergata&amp;rdquo;&lt;br&gt;&#xA;&lt;em&gt;1993 &amp;ndash; 2000&lt;/em&gt;&lt;br&gt;&#xA;Obtained on 07/12/2000, grade 98/100.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Bibliography</title>
+      <link>//localhost:1313/en/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/publications/</guid>
+      <description>&lt;p&gt;You can download the full list of publications in BibTeX format below:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;file/scopus2025.bib&#34;&gt;Download scopus2025.bib&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
